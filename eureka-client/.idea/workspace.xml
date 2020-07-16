@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b222f77-040a-4342-8885-f857bec9b654" name="Default Changelist" comment="add eureka-client">
+      <change beforePath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1elXvj0arUtrNIonrdskA86HpB6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/JAVA/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.eurekaclient.EurekaClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b222f77-040a-4342-8885-f857bec9b654" name="Default Changelist" comment="" />
+      <created>1594897385828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594897385828</updated>
+      <workItem from="1594897391617" duration="2246000" />
+    </task>
+    <task id="LOCAL-00001" summary="add eureka-client">
+      <created>1594900794197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594900794197</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add eureka-client" />
+    <option name="LAST_COMMIT_MESSAGE" value="add eureka-client" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="253" y="298" key="CommitChangelistDialog2" timestamp="1594900931165">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="253" y="298" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1594900931165" />
+    <state width="1279" height="408" key="GridCell.Tab.0.bottom" timestamp="1594900931235">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1279" height="408" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594900931235" />
+    <state width="1279" height="408" key="GridCell.Tab.0.center" timestamp="1594900931235">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1279" height="408" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594900931235" />
+    <state width="1279" height="408" key="GridCell.Tab.0.left" timestamp="1594900931234">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1279" height="408" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594900931234" />
+    <state width="1279" height="408" key="GridCell.Tab.0.right" timestamp="1594900931235">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1279" height="408" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594900931235" />
+    <state width="1279" height="408" key="GridCell.Tab.1.bottom" timestamp="1594900931235">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1279" height="408" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594900931235" />
+    <state width="1279" height="408" key="GridCell.Tab.1.center" timestamp="1594900931235">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1279" height="408" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594900931235" />
+    <state width="1279" height="408" key="GridCell.Tab.1.left" timestamp="1594900931235">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1279" height="408" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594900931235" />
+    <state width="1279" height="408" key="GridCell.Tab.1.right" timestamp="1594900931235">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1279" height="408" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594900931235" />
+    <state x="232" y="438" key="Vcs.Push.Dialog.v2" timestamp="1594900801630">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="232" y="438" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594900801630" />
+    <state x="449" y="622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594900874808">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="449" y="622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594900874808" />
+  </component>
+</project>
