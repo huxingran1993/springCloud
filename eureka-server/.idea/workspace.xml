@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96a9955c-b850-47a3-aeeb-9193114a7c9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pic/micro_frame.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-client/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloud/EurekaServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloud/EurekaServerApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592504866172</updated>
       <workItem from="1592504869820" duration="1322000" />
-      <workItem from="1594895627924" duration="1269000" />
+      <workItem from="1594895627924" duration="2869000" />
     </task>
     <task id="LOCAL-00001" summary="init server">
       <created>1592505264952</created>
@@ -96,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592505359653</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add pic">
+      <created>1594896926058</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594896926058</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,13 +108,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init server" />
-    <option name="LAST_COMMIT_MESSAGE" value="init server" />
+    <MESSAGE value="add pic" />
+    <option name="LAST_COMMIT_MESSAGE" value="add pic" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="789" y="295" key="CommitChangelistDialog2" timestamp="1592505357641">
+    <state x="789" y="295" key="CommitChangelistDialog2" timestamp="1594896924388">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="789" y="295" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1592505357641" />
+    <state x="789" y="295" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1594896924388" />
     <state x="1061" y="457" key="FileChooserDialogImpl" timestamp="1594895766296">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -147,14 +152,18 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1403" height="553" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1592506196740" />
-    <state x="873" y="435" key="Vcs.Push.Dialog.v2" timestamp="1592505384372">
+    <state x="873" y="435" key="Vcs.Push.Dialog.v2" timestamp="1594896929407">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="873" y="435" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1592505384372" />
+    <state x="873" y="435" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594896929407" />
     <state x="1090" y="619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594895688643">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1090" y="619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594895688643" />
+    <state x="90" y="325" key="new project wizard" timestamp="1594897383025">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="90" y="325" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1594897383025" />
     <state x="1521" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1594896349111">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
