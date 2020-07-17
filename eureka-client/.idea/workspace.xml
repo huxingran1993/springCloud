@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b222f77-040a-4342-8885-f857bec9b654" name="Default Changelist" comment="add eureka-client">
+    <list default="true" id="2b222f77-040a-4342-8885-f857bec9b654" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application-security" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/config/FeignConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/controller/UserFeignController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/model/CommonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/service/impl/UserFallbackService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feign-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-security-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-security-server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-security-server/src/main/java/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-security-server/src/main/java/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-security-server/target/classes/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-security-server/target/classes/config/WebSecurityConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -21,7 +44,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1elXvj0arUtrNIonrdskA86HpB6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -30,6 +55,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/JAVA/Android/Sdk" />
@@ -67,7 +97,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594897385828</updated>
-      <workItem from="1594897391617" duration="2246000" />
+      <workItem from="1594897391617" duration="8574000" />
+      <workItem from="1594987652913" duration="1660000" />
     </task>
     <task id="LOCAL-00001" summary="add eureka-client">
       <created>1594900794197</created>
@@ -76,60 +107,83 @@
       <option name="project" value="LOCAL" />
       <updated>1594900794197</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add eureka-client">
+      <created>1594900906179</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594900906179</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add eureka-client">
+      <created>1594900946390</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594900946390</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add eureka-client" />
     <option name="LAST_COMMIT_MESSAGE" value="add eureka-client" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="253" y="298" key="CommitChangelistDialog2" timestamp="1594900931165">
+    <state x="374" y="508" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594902097421">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="253" y="298" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1594900931165" />
-    <state width="1279" height="408" key="GridCell.Tab.0.bottom" timestamp="1594900931235">
+    <state x="374" y="508" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1594902097421" />
+    <state x="253" y="298" key="CommitChangelistDialog2" timestamp="1594900944225">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1279" height="408" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594900931235" />
-    <state width="1279" height="408" key="GridCell.Tab.0.center" timestamp="1594900931235">
+    <state x="253" y="298" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1594900944225" />
+    <state width="2561" height="741" key="GridCell.Tab.0.bottom" timestamp="1594912737461">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1279" height="408" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594900931235" />
-    <state width="1279" height="408" key="GridCell.Tab.0.left" timestamp="1594900931234">
+    <state width="2561" height="741" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594912737461" />
+    <state width="2561" height="741" key="GridCell.Tab.0.center" timestamp="1594912737461">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1279" height="408" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594900931234" />
-    <state width="1279" height="408" key="GridCell.Tab.0.right" timestamp="1594900931235">
+    <state width="2561" height="741" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594912737461" />
+    <state width="2561" height="741" key="GridCell.Tab.0.left" timestamp="1594912737461">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1279" height="408" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594900931235" />
-    <state width="1279" height="408" key="GridCell.Tab.1.bottom" timestamp="1594900931235">
+    <state width="2561" height="741" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594912737461" />
+    <state width="2561" height="741" key="GridCell.Tab.0.right" timestamp="1594912737461">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1279" height="408" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594900931235" />
-    <state width="1279" height="408" key="GridCell.Tab.1.center" timestamp="1594900931235">
+    <state width="2561" height="741" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594912737461" />
+    <state width="2561" height="741" key="GridCell.Tab.1.bottom" timestamp="1594912737461">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1279" height="408" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594900931235" />
-    <state width="1279" height="408" key="GridCell.Tab.1.left" timestamp="1594900931235">
+    <state width="2561" height="741" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594912737461" />
+    <state width="2561" height="741" key="GridCell.Tab.1.center" timestamp="1594912737461">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1279" height="408" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594900931235" />
-    <state width="1279" height="408" key="GridCell.Tab.1.right" timestamp="1594900931235">
+    <state width="2561" height="741" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594912737461" />
+    <state width="2561" height="741" key="GridCell.Tab.1.left" timestamp="1594912737461">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1279" height="408" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594900931235" />
-    <state x="232" y="438" key="Vcs.Push.Dialog.v2" timestamp="1594900801630">
+    <state width="2561" height="741" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594912737461" />
+    <state width="2561" height="741" key="GridCell.Tab.1.right" timestamp="1594912737461">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="232" y="438" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594900801630" />
+    <state width="2561" height="741" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594912737461" />
+    <state x="232" y="438" key="Vcs.Push.Dialog.v2" timestamp="1594900953397">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="232" y="438" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594900953397" />
     <state x="449" y="622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594900874808">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="449" y="622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594900874808" />
+    <state x="90" y="407" key="new project wizard" timestamp="1594901169608">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="90" y="407" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1594901169608" />
   </component>
 </project>

@@ -1,11 +1,28 @@
+#server:
+#  port: 8101
+#spring:
+#  application:
+#    name: eureka-client
+#eureka:
+#  client:
+#    register-with-eureka: true
+#    fetch-registry: true
+#    service-url:
+#      defaultZone: http://localhost:8001/eureka/
+
 server:
-  port: 8101
+  port: 8103
 spring:
   application:
     name: eureka-client
 eureka:
   client:
+    security:
+      basic:
+        user: xing
+        password: 123456
     register-with-eureka: true
     fetch-registry: true
     service-url:
-      defaultZone: http://localhost:8001/eureka/
+      defaultZone: http://${eureka.client.security.basic.user}:${eureka.client.security.basic.password}@localhost:8004/eureka/
+

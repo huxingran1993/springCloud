@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d21bae2d-8d51-4734-8848-1c6bddafd6a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-client/src/main/resources/application-security" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eureka-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-client/src/main/java/com/cloud/eurekaclient/EurekaClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/src/main/java/com/cloud/eurekaclient/EurekaClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-client/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config/WebSecurityConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,49 +86,69 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594901169683</updated>
-      <workItem from="1594901172749" duration="538000" />
+      <workItem from="1594901172749" duration="2706000" />
     </task>
+    <task id="LOCAL-00001" summary="add security-server">
+      <created>1594901853955</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594901853955</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add security-server" />
+    <option name="LAST_COMMIT_MESSAGE" value="add security-server" />
   </component>
   <component name="WindowStateProjectService">
     <state x="453" y="411" key="#com.intellij.ide.util.MemberChooser" timestamp="1594901508615">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="453" y="411" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1594901508615" />
-    <state width="1280" height="633" key="GridCell.Tab.0.bottom" timestamp="1594901735339">
+    <state x="155" y="294" key="CommitChangelistDialog2" timestamp="1594901851606">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="633" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594901735339" />
-    <state width="1280" height="633" key="GridCell.Tab.0.center" timestamp="1594901735339">
+    <state x="155" y="294" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1594901851606" />
+    <state width="2561" height="633" key="GridCell.Tab.0.bottom" timestamp="1594912741241">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="633" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594901735339" />
-    <state width="1280" height="633" key="GridCell.Tab.0.left" timestamp="1594901735339">
+    <state width="2561" height="633" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594912741241" />
+    <state width="2561" height="633" key="GridCell.Tab.0.center" timestamp="1594912741241">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="633" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594901735339" />
-    <state width="1280" height="633" key="GridCell.Tab.0.right" timestamp="1594901735339">
+    <state width="2561" height="633" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594912741241" />
+    <state width="2561" height="633" key="GridCell.Tab.0.left" timestamp="1594912741241">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="633" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594901735339" />
-    <state width="1280" height="633" key="GridCell.Tab.1.bottom" timestamp="1594901735340">
+    <state width="2561" height="633" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594912741241" />
+    <state width="2561" height="633" key="GridCell.Tab.0.right" timestamp="1594912741241">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="633" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594901735340" />
-    <state width="1280" height="633" key="GridCell.Tab.1.center" timestamp="1594901735340">
+    <state width="2561" height="633" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594912741241" />
+    <state width="2561" height="633" key="GridCell.Tab.1.bottom" timestamp="1594912741241">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="633" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594901735340" />
-    <state width="1280" height="633" key="GridCell.Tab.1.left" timestamp="1594901735340">
+    <state width="2561" height="633" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594912741241" />
+    <state width="2561" height="633" key="GridCell.Tab.1.center" timestamp="1594912741241">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="633" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594901735340" />
-    <state width="1280" height="633" key="GridCell.Tab.1.right" timestamp="1594901735340">
+    <state width="2561" height="633" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594912741241" />
+    <state width="2561" height="633" key="GridCell.Tab.1.left" timestamp="1594912741241">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="633" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594901735340" />
+    <state width="2561" height="633" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594912741241" />
+    <state width="2561" height="633" key="GridCell.Tab.1.right" timestamp="1594912741241">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2561" height="633" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594912741241" />
+    <state x="240" y="434" key="Vcs.Push.Dialog.v2" timestamp="1594901863566">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="240" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594901863566" />
   </component>
 </project>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9bec890-ac9b-4c0d-8222-e1b48557fb54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../eureka-client/src/main/resources/application-security" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/feignservice/config/FeignConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/feignservice/controller/UserFeignController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/feignservice/model/CommonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/feignservice/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/feignservice/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/feignservice/service/impl/UserFallbackService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-client/eureka-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/eureka-client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-client/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-security-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-security-server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-security-server/src/main/java/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-security-server/src/main/java/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-security-server/target/classes/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-security-server/target/classes/config/WebSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1eoUim7sJh5BfIlm7TGRn82X9ny" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/JAVA/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FeignServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="feign-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.feignservice.FeignServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9bec890-ac9b-4c0d-8222-e1b48557fb54" name="Default Changelist" comment="" />
+      <created>1594987568142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594987568142</updated>
+      <workItem from="1594987571433" duration="4021000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="414" key="#com.intellij.ide.util.MemberChooser" timestamp="1594997738824">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="445" y="414" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1594997738824" />
+    <state x="303" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1594989010455">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="303" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1594989010455" />
+  </component>
+</project>
