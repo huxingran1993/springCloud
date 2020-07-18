@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0f52c6f-bcb2-44ea-8ef6-844048a124bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/model/CommonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuul-proxy/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../feign-service/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../feign-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/controller/UserFeignController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/controller/UserFeignController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/model/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/model/CommonResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../feign-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1eovcNJfR5k22ff9NL27WpUat96" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/JAVA/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.userservice.UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0f52c6f-bcb2-44ea-8ef6-844048a124bb" name="Default Changelist" comment="" />
+      <created>1595000838516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595000838516</updated>
+      <workItem from="1595000841453" duration="61000" />
+      <workItem from="1595070333524" duration="4173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="411" key="#com.intellij.ide.util.MemberChooser" timestamp="1595072708872">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="453" y="411" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1595072708872" />
+  </component>
+</project>

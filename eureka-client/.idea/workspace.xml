@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b222f77-040a-4342-8885-f857bec9b654" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-security" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/config/FeignConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/controller/UserFeignController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/model/CommonResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/service/impl/UserFallbackService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../feign-service/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-security-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-security-server/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-security-server/src/main/java/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-security-server/src/main/java/config/WebSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-security-server/target/classes/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-security-server/target/classes/config/WebSecurityConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../feign-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/controller/UserFeignController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/controller/UserFeignController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/model/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/model/CommonResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../feign-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

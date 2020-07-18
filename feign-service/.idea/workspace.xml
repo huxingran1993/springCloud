@@ -2,23 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9bec890-ac9b-4c0d-8222-e1b48557fb54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../eureka-client/src/main/resources/application-security" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/feignservice/config/FeignConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/feignservice/controller/UserFeignController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/feignservice/model/CommonResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/feignservice/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/feignservice/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/feignservice/service/impl/UserFallbackService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/cloud/userservice/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/cloud/userservice/model/CommonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/cloud/userservice/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/cloud/userservice/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/cloud/userservice/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuul-proxy/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eureka-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-client/eureka-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/eureka-client.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-client/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-security-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-security-server/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-security-server/src/main/java/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-security-server/src/main/java/config/WebSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-security-server/target/classes/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-security-server/target/classes/config/WebSecurityConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloud/feignservice/controller/UserFeignController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloud/feignservice/controller/UserFeignController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloud/feignservice/model/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloud/feignservice/model/CommonResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +42,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/JAVA/Android/Sdk" />
@@ -82,18 +83,71 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594987568142</updated>
-      <workItem from="1594987571433" duration="4021000" />
+      <workItem from="1594987571433" duration="5248000" />
+      <workItem from="1595070929471" duration="778000" />
     </task>
+    <task id="LOCAL-00001" summary="open feign">
+      <created>1594998557211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594998557211</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="open feign" />
+    <option name="LAST_COMMIT_MESSAGE" value="open feign" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="414" key="#com.intellij.ide.util.MemberChooser" timestamp="1594997738824">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="445" y="414" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1594997738824" />
+    <state x="150" y="298" key="CommitChangelistDialog2" timestamp="1594998554542">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="150" y="298" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1594998554542" />
+    <state width="2561" height="708" key="GridCell.Tab.0.bottom" timestamp="1594999723169">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2561" height="708" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594999723169" />
+    <state width="2561" height="708" key="GridCell.Tab.0.center" timestamp="1594999723169">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2561" height="708" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594999723169" />
+    <state width="2561" height="708" key="GridCell.Tab.0.left" timestamp="1594999723169">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2561" height="708" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594999723169" />
+    <state width="2561" height="708" key="GridCell.Tab.0.right" timestamp="1594999723169">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2561" height="708" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594999723169" />
+    <state width="2561" height="708" key="GridCell.Tab.1.bottom" timestamp="1594999723170">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2561" height="708" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594999723170" />
+    <state width="2561" height="708" key="GridCell.Tab.1.center" timestamp="1594999723170">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2561" height="708" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594999723170" />
+    <state width="2561" height="708" key="GridCell.Tab.1.left" timestamp="1594999723169">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2561" height="708" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594999723169" />
+    <state width="2561" height="708" key="GridCell.Tab.1.right" timestamp="1594999723170">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2561" height="708" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594999723170" />
+    <state x="232" y="438" key="Vcs.Push.Dialog.v2" timestamp="1594998564529">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="232" y="438" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594998564529" />
     <state x="303" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1594989010455">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

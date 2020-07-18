@@ -4,13 +4,11 @@ import com.cloud.feignservice.model.CommonResult;
 import com.cloud.feignservice.model.User;
 import com.cloud.feignservice.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/user")
 public class UserFeignController {
-    @Qualifier("user-service")
     @Autowired
     private UserService userService;
 

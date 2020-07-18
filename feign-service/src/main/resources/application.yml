@@ -15,4 +15,4 @@ feign:
 
 logging:
   level:
-    com.cloud.service.UserService: debug
+    com.cloud.feignservice.service.UserService: debug
