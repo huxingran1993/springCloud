@@ -10,6 +10,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+import javax.jws.soap.SOAPBinding;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -21,7 +22,7 @@ public class UserController {
     @Autowired
     private UserService userService;
 
-    @GetMapping
+    @GetMapping("/getAllUser")
     public ResponseEntity<List<User>> getAllUser(){
         List<User> users = new ArrayList<>();
         userService.getAllUser().forEach(users::add);
@@ -46,6 +47,12 @@ public class UserController {
         List<User> userList = userService.getUserByIds(ids);
         LOGGER.info("Query the user by IDs, User list: ", userList);
         return new CommonResult<>(userList);
+    }
+
+    @GetMapping("/getByUsername")
+    public CommonResult<User> getByUsername(@RequestParam String username){
+        User user = userService.getByUsername(username);
+        return new CommonResult<>(user);
     }
 
     @PostMapping("/update")

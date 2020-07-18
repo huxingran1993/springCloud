@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96a9955c-b850-47a3-aeeb-9193114a7c9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../zuul-proxy/src/main/java/com/cloud/zuulproxy/filter/PreLogFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/cloud/apigateway/config/GatewayConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../feign-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/controller/UserFeignController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/controller/UserFeignController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/service/impl/UserFallbackService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/service/impl/UserFallbackService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../user-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../user-service/src/main/java/com/cloud/userservice/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/cloud/userservice/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user-service/src/main/java/com/cloud/userservice/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/cloud/userservice/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user-service/src/main/java/com/cloud/userservice/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/cloud/userservice/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zuul-proxy/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-proxy/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zuul-proxy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-proxy/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
