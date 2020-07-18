@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0f52c6f-bcb2-44ea-8ef6-844048a124bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/model/CommonResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zuul-proxy/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuul-proxy/src/main/java/com/cloud/zuulproxy/filter/PreLogFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../feign-service/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../feign-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/controller/UserFeignController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/controller/UserFeignController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/model/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/model/CommonResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../feign-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/service/impl/UserFallbackService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/service/impl/UserFallbackService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zuul-proxy/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-proxy/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +41,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/JAVA/Android/Sdk" />
@@ -82,17 +83,69 @@
       <option name="presentableId" value="Default" />
       <updated>1595000838516</updated>
       <workItem from="1595000841453" duration="61000" />
-      <workItem from="1595070333524" duration="4173000" />
+      <workItem from="1595070333524" duration="6129000" />
     </task>
+    <task id="LOCAL-00001" summary="add user-service">
+      <created>1595075109922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595075109922</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add user-service" />
+    <option name="LAST_COMMIT_MESSAGE" value="add user-service" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="453" y="411" key="#com.intellij.ide.util.MemberChooser" timestamp="1595072708872">
+    <state x="453" y="411" key="#com.intellij.ide.util.MemberChooser" timestamp="1595075627081">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="453" y="411" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1595072708872" />
+    <state x="453" y="411" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1595075627081" />
+    <state x="157" y="294" key="CommitChangelistDialog2" timestamp="1595075107169">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="157" y="294" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1595075107169" />
+    <state width="1280" height="586" key="GridCell.Tab.0.bottom" timestamp="1595076222721">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1280" height="586" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595076222721" />
+    <state width="1280" height="586" key="GridCell.Tab.0.center" timestamp="1595076222721">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1280" height="586" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595076222721" />
+    <state width="1280" height="586" key="GridCell.Tab.0.left" timestamp="1595076222721">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1280" height="586" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595076222721" />
+    <state width="1280" height="586" key="GridCell.Tab.0.right" timestamp="1595076222721">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1280" height="586" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595076222721" />
+    <state width="1280" height="586" key="GridCell.Tab.1.bottom" timestamp="1595076222722">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1280" height="586" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595076222722" />
+    <state width="1280" height="586" key="GridCell.Tab.1.center" timestamp="1595076222721">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1280" height="586" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595076222721" />
+    <state width="1280" height="586" key="GridCell.Tab.1.left" timestamp="1595076222721">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1280" height="586" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595076222721" />
+    <state width="1280" height="586" key="GridCell.Tab.1.right" timestamp="1595076222721">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1280" height="586" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595076222721" />
+    <state x="240" y="434" key="Vcs.Push.Dialog.v2" timestamp="1595075114790">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="240" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1595075114790" />
   </component>
 </project>

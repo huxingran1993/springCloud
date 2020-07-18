@@ -2,6 +2,7 @@ package com.cloud.userservice.service.impl;
 
 import com.cloud.userservice.model.User;
 import com.cloud.userservice.service.UserService;
+import org.springframework.stereotype.Service;
 import org.springframework.util.CollectionUtils;
 
 import javax.annotation.PostConstruct;
@@ -9,6 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
+@Service
 public class UserServiceImpl implements UserService {
     private List<User> userList;
 
@@ -55,6 +57,11 @@ public class UserServiceImpl implements UserService {
     @Override
     public List<User> getUserByIds(List<Long> ids) {
         return userList.stream().filter(userItem -> ids.contains(userItem.getId())).collect(Collectors.toList());
+    }
+
+    @Override
+    public List<User> getAllUser() {
+        return userList;
     }
 
     @PostConstruct

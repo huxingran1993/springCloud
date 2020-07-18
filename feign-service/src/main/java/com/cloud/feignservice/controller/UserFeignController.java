@@ -4,7 +4,10 @@ import com.cloud.feignservice.model.CommonResult;
 import com.cloud.feignservice.model.User;
 import com.cloud.feignservice.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+
+import java.util.List;
 
 @RestController
 @RequestMapping("/user")
@@ -12,6 +15,10 @@ public class UserFeignController {
     @Autowired
     private UserService userService;
 
+    @GetMapping
+    public ResponseEntity<List<User>> getAllUser(){
+        return userService.getAllUser();
+    }
     @GetMapping("/{id}")
     public CommonResult getUser(@PathVariable Long id){
         return userService.getUser(id);

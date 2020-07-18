@@ -3,10 +3,18 @@ package com.cloud.feignservice.service.impl;
 import com.cloud.feignservice.model.CommonResult;
 import com.cloud.feignservice.model.User;
 import com.cloud.feignservice.service.UserService;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
+
+import java.util.List;
 
 @Component
 public class UserFallbackService implements UserService {
+    @Override
+    public ResponseEntity<List<User>> getAllUser() {
+        return null;
+    }
+
     @Override
     public CommonResult create(User user) {
         User defaultUser = new User(-1L, "defaultUser", "123456");

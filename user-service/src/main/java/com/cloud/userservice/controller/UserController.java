@@ -6,7 +6,11 @@ import com.cloud.userservice.service.UserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+
+import java.util.ArrayList;
 import java.util.List;
 
 @RestController
@@ -16,6 +20,13 @@ public class UserController {
 
     @Autowired
     private UserService userService;
+
+    @GetMapping
+    public ResponseEntity<List<User>> getAllUser(){
+        List<User> users = new ArrayList<>();
+        userService.getAllUser().forEach(users::add);
+        return new ResponseEntity<>(users, HttpStatus.OK);
+    }
 
     @PostMapping("/create")
     public CommonResult create(@RequestBody User user){
