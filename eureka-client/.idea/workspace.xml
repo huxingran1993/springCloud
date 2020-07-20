@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b222f77-040a-4342-8885-f857bec9b654" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../admin-client/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-server/src/main/java/com/cloud/oauth2server/config/AuthorizationServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-server/src/main/java/com/cloud/oauth2server/config/ResourceServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-server/src/main/java/com/cloud/oauth2server/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-server/src/main/java/com/cloud/oauth2server/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-server/src/main/java/com/cloud/oauth2server/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-server/src/main/java/com/cloud/oauth2server/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-server/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../feign-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/controller/UserFeignController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/controller/UserFeignController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/model/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/src/main/java/com/cloud/feignservice/model/CommonResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../feign-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zuul-proxy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-proxy/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +96,7 @@
       <updated>1594897385828</updated>
       <workItem from="1594897391617" duration="8574000" />
       <workItem from="1594987652913" duration="1660000" />
+      <workItem from="1595246620362" duration="614000" />
     </task>
     <task id="LOCAL-00001" summary="add eureka-client">
       <created>1594900794197</created>
