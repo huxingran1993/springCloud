@@ -16,7 +16,7 @@
 ![Alt text](eureka-server/src/pic/OAuth_approval.png) 
 
 ![Alt text](eureka-server/src/pic/redirect_google.png) 
-- Today is Belgian Nationale feestdag :)
+**- Today is Belgian Nationale feestdag :)**
 - Open Postman type in like below and send, Authorization Server will return the **_Access Token_**
 ![Alt text](eureka-server/src/pic/postman_auth.png) 
 - Now if you visit http://localhost:9401/user/getCurrentUser, it will notify need full authorization. Add access token in **Headers.** Then we can access. 
