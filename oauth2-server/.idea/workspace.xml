@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c849a42-1824-4933-8c86-288b79937424" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../admin-client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../admin-server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/oauth2server/config/AuthorizationServerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/oauth2server/config/ResourceServerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/oauth2server/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/oauth2server/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/oauth2server/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/oauth2server/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../feign-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-server/src/pic/OAuth_approval.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-server/src/pic/add_token.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-server/src/pic/password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-server/src/pic/postman_auth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-server/src/pic/redirect_google.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloud/oauth2server/config/AuthorizationServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloud/oauth2server/config/AuthorizationServerConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../user-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zuul-proxy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-proxy/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,61 +88,81 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595246078195</updated>
-      <workItem from="1595246081297" duration="4197000" />
+      <workItem from="1595246081297" duration="4365000" />
+      <workItem from="1595326701865" duration="2686000" />
     </task>
+    <task id="LOCAL-00001" summary="add oauth2">
+      <created>1595250301523</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595250301523</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add oauth2">
+      <created>1595250401476</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595250401476</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add oauth2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add oauth2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="414" key="#com.intellij.ide.util.MemberChooser" timestamp="1595249629473">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="445" y="414" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1595249629473" />
-    <state x="349" y="294" key="CommitChangelistDialog2" timestamp="1595250299223">
+    <state x="349" y="294" key="CommitChangelistDialog2" timestamp="1595250399280">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="349" y="294" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1595250299223" />
-    <state width="1489" height="521" key="GridCell.Tab.0.bottom" timestamp="1595249939694">
+    <state x="349" y="294" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1595250399280" />
+    <state width="1489" height="521" key="GridCell.Tab.0.bottom" timestamp="1595250452997">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1489" height="521" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595249939694" />
-    <state width="1489" height="521" key="GridCell.Tab.0.center" timestamp="1595249939693">
+    <state width="1489" height="521" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595250452997" />
+    <state width="1489" height="521" key="GridCell.Tab.0.center" timestamp="1595250452997">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1489" height="521" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595249939693" />
-    <state width="1489" height="521" key="GridCell.Tab.0.left" timestamp="1595249939693">
+    <state width="1489" height="521" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595250452997" />
+    <state width="1489" height="521" key="GridCell.Tab.0.left" timestamp="1595250452997">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1489" height="521" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595249939693" />
-    <state width="1489" height="521" key="GridCell.Tab.0.right" timestamp="1595249939693">
+    <state width="1489" height="521" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595250452997" />
+    <state width="1489" height="521" key="GridCell.Tab.0.right" timestamp="1595250452997">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1489" height="521" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595249939693" />
-    <state width="1489" height="521" key="GridCell.Tab.1.bottom" timestamp="1595249939694">
+    <state width="1489" height="521" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595250452997" />
+    <state width="1489" height="521" key="GridCell.Tab.1.bottom" timestamp="1595250452997">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1489" height="521" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595249939694" />
-    <state width="1489" height="521" key="GridCell.Tab.1.center" timestamp="1595249939694">
+    <state width="1489" height="521" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595250452997" />
+    <state width="1489" height="521" key="GridCell.Tab.1.center" timestamp="1595250452997">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1489" height="521" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595249939694" />
-    <state width="1489" height="521" key="GridCell.Tab.1.left" timestamp="1595249939694">
+    <state width="1489" height="521" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595250452997" />
+    <state width="1489" height="521" key="GridCell.Tab.1.left" timestamp="1595250452997">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1489" height="521" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595249939694" />
-    <state width="1489" height="521" key="GridCell.Tab.1.right" timestamp="1595249939694">
+    <state width="1489" height="521" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595250452997" />
+    <state width="1489" height="521" key="GridCell.Tab.1.right" timestamp="1595250452997">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1489" height="521" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595249939694" />
+    <state width="1489" height="521" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595250452997" />
     <state x="170" y="360" key="Maven.ArtifactSearchDialog" timestamp="1595246421973">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="170" y="360" key="Maven.ArtifactSearchDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1595246421973" />
-    <state x="344" y="434" key="Vcs.Push.Dialog.v2" timestamp="1595250387180">
+    <state x="344" y="434" key="Vcs.Push.Dialog.v2" timestamp="1595250405525">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="344" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1595250387180" />
+    <state x="344" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1595250405525" />
   </component>
 </project>
