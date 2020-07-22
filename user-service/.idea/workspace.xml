@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0f52c6f-bcb2-44ea-8ef6-844048a124bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../eureka-server/src/pic/OAuth_approval.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-server/src/pic/add_token.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-server/src/pic/body.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-server/src/pic/password.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-server/src/pic/postman_auth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-server/src/pic/redirect_google.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../oauth2-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oauth2-server/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oauth2-server/src/main/java/com/cloud/oauth2server/config/AuthorizationServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oauth2-server/src/main/java/com/cloud/oauth2server/config/AuthorizationServerConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +79,7 @@
       <workItem from="1595070333524" duration="8232000" />
       <workItem from="1595246637445" duration="1213000" />
       <workItem from="1595263657044" duration="186000" />
-      <workItem from="1595326372460" duration="3455000" />
+      <workItem from="1595326372460" duration="4187000" />
     </task>
     <task id="LOCAL-00001" summary="add user-service">
       <created>1595075109922</created>
@@ -96,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595075109922</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="two oauth modes explain">
+      <created>1595330516363</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595330516363</updated>
+    </task>
+    <task id="LOCAL-00003" summary="two oauth modes explain">
+      <created>1595330605521</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595330605521</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,17 +111,18 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add user-service" />
-    <option name="LAST_COMMIT_MESSAGE" value="add user-service" />
+    <MESSAGE value="two oauth modes explain" />
+    <option name="LAST_COMMIT_MESSAGE" value="two oauth modes explain" />
   </component>
   <component name="WindowStateProjectService">
     <state x="453" y="411" key="#com.intellij.ide.util.MemberChooser" timestamp="1595075627081">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="453" y="411" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1595075627081" />
-    <state x="157" y="294" key="CommitChangelistDialog2" timestamp="1595330514165">
+    <state x="157" y="294" key="CommitChangelistDialog2" timestamp="1595330603644">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="157" y="294" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1595330514165" />
+    <state x="157" y="294" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1595330603644" />
     <state x="454" y="496" key="FileChooserDialogImpl" timestamp="1595263698499">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -152,9 +159,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1280" height="586" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595101016641" />
-    <state x="240" y="434" key="Vcs.Push.Dialog.v2" timestamp="1595330522381">
+    <state x="240" y="434" key="Vcs.Push.Dialog.v2" timestamp="1595330609371">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="240" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1595330522381" />
+    <state x="240" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1595330609371" />
   </component>
 </project>

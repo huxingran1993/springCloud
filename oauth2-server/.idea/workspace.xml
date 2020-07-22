@@ -2,14 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c849a42-1824-4933-8c86-288b79937424" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../eureka-server/src/pic/OAuth_approval.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-server/src/pic/add_token.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-server/src/pic/password.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-server/src/pic/postman_auth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-server/src/pic/redirect_google.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/oauth2-jwt-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/src/main/java/com/cloud/oauth2jwtserver/Oauth2JwtServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/src/main/java/com/cloud/oauth2jwtserver/config/AuthorizationServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/src/main/java/com/cloud/oauth2jwtserver/config/RedisTokenStoreConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/src/main/java/com/cloud/oauth2jwtserver/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/src/main/java/com/cloud/oauth2jwtserver/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oauth2-jwt-server/src/test/java/com/cloud/oauth2jwtserver/Oauth2JwtServerApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloud/oauth2server/config/AuthorizationServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloud/oauth2server/config/AuthorizationServerConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../user-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +103,8 @@
       <option name="presentableId" value="Default" />
       <updated>1595246078195</updated>
       <workItem from="1595246081297" duration="4365000" />
-      <workItem from="1595326701865" duration="2686000" />
+      <workItem from="1595326701865" duration="3751000" />
+      <workItem from="1595411857765" duration="2290000" />
     </task>
     <task id="LOCAL-00001" summary="add oauth2">
       <created>1595250301523</created>
@@ -124,38 +139,38 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="349" y="294" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1595250399280" />
-    <state width="1489" height="521" key="GridCell.Tab.0.bottom" timestamp="1595250452997">
+    <state width="1490" height="521" key="GridCell.Tab.0.bottom" timestamp="1595345774836">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1489" height="521" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595250452997" />
-    <state width="1489" height="521" key="GridCell.Tab.0.center" timestamp="1595250452997">
+    <state width="1490" height="521" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595345774836" />
+    <state width="1490" height="521" key="GridCell.Tab.0.center" timestamp="1595345774836">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1489" height="521" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595250452997" />
-    <state width="1489" height="521" key="GridCell.Tab.0.left" timestamp="1595250452997">
+    <state width="1490" height="521" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595345774836" />
+    <state width="1490" height="521" key="GridCell.Tab.0.left" timestamp="1595345774836">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1489" height="521" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595250452997" />
-    <state width="1489" height="521" key="GridCell.Tab.0.right" timestamp="1595250452997">
+    <state width="1490" height="521" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595345774836" />
+    <state width="1490" height="521" key="GridCell.Tab.0.right" timestamp="1595345774836">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1489" height="521" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595250452997" />
-    <state width="1489" height="521" key="GridCell.Tab.1.bottom" timestamp="1595250452997">
+    <state width="1490" height="521" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595345774836" />
+    <state width="1490" height="521" key="GridCell.Tab.1.bottom" timestamp="1595345774836">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1489" height="521" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595250452997" />
-    <state width="1489" height="521" key="GridCell.Tab.1.center" timestamp="1595250452997">
+    <state width="1490" height="521" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595345774836" />
+    <state width="1490" height="521" key="GridCell.Tab.1.center" timestamp="1595345774836">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1489" height="521" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595250452997" />
-    <state width="1489" height="521" key="GridCell.Tab.1.left" timestamp="1595250452997">
+    <state width="1490" height="521" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595345774836" />
+    <state width="1490" height="521" key="GridCell.Tab.1.left" timestamp="1595345774836">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1489" height="521" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595250452997" />
-    <state width="1489" height="521" key="GridCell.Tab.1.right" timestamp="1595250452997">
+    <state width="1490" height="521" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595345774836" />
+    <state width="1490" height="521" key="GridCell.Tab.1.right" timestamp="1595345774836">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1489" height="521" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595250452997" />
+    <state width="1490" height="521" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595345774836" />
     <state x="170" y="360" key="Maven.ArtifactSearchDialog" timestamp="1595246421973">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

@@ -1,0 +1,7 @@
+spring:
+#  redis:
+#    password: 123456
+  application:
+    name: oauth2-jwt-server
+server:
+  port: 9401
