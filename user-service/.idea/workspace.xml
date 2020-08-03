@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0f52c6f-bcb2-44ea-8ef6-844048a124bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../feign-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../feign-service/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oauth2-jwt-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oauth2-jwt-server/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oauth2-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oauth2-server/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/model/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloud/userservice/model/CommonResult.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +119,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add user-service" />
     <MESSAGE value="two oauth modes explain" />
-    <option name="LAST_COMMIT_MESSAGE" value="two oauth modes explain" />
+    <MESSAGE value="test merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="test merge" />
   </component>
   <component name="WindowStateProjectService">
     <state x="453" y="411" key="#com.intellij.ide.util.MemberChooser" timestamp="1595075627081">
@@ -176,6 +171,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="240" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1595330609371" />
+    <state x="1056" y="415" key="git4idea.branch.GitSmartOperationDialog" timestamp="1596456564020">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1056" y="415" key="git4idea.branch.GitSmartOperationDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1596456564020" />
     <state x="731" y="404" key="new project wizard" timestamp="1596455429924">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
