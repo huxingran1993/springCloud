@@ -1,7 +1,7 @@
 package com.cloud.userservice.model;
 
 import lombok.Data;
-
+//test merge
 @Data
 public class CommonResult<T> {
     private T data;

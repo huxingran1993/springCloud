@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9bec890-ac9b-4c0d-8222-e1b48557fb54" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../user-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zuul-proxy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-proxy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oauth2-jwt-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oauth2-jwt-server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oauth2-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oauth2-server/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +73,7 @@
       <updated>1594987568142</updated>
       <workItem from="1594987571433" duration="5248000" />
       <workItem from="1595070929471" duration="4044000" />
+      <workItem from="1596321452454" duration="47000" />
     </task>
     <task id="LOCAL-00001" summary="open feign">
       <created>1594998557211</created>

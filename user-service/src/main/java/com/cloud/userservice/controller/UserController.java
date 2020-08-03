@@ -10,7 +10,6 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import javax.jws.soap.SOAPBinding;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -33,6 +32,11 @@ public class UserController {
     public CommonResult create(@RequestBody User user){
         userService.create(user);
         return new CommonResult("Create Successful!", 200);
+    }
+
+    @PostMapping("/new")
+    public void newUser(@RequestBody User user){
+        userService.create(user);
     }
 
     @GetMapping("/{id}")
